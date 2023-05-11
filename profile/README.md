@@ -3,6 +3,8 @@
 - ## No Lab Query session due to my unavailability.
 ```
 
+$${\color{red}Red}$$	
+
 We will have lab query session everyday, However you will be onboarded to the main session from next week, Until then for the first week we will have a saperate catchup.
 
 #### USE THE SAME LINK THAT YOU JOIN THE SESSION TO JOIN THE LAB QUERY SESSION.
