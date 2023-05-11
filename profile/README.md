@@ -1,9 +1,6 @@
 ### Lab Query Session (First Week Only) : 
-```diff
-- ## No Lab Query session due to my unavailability.
-```
 
-$${\color{red}Red}$$	
+$${\color{## No Lab Query session due to my unavailability.}Red}$$	
 
 We will have lab query session everyday, However you will be onboarded to the main session from next week, Until then for the first week we will have a saperate catchup.
 
