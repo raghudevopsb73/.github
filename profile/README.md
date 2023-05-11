@@ -30,3 +30,5 @@ This website we use it for learning linux in the first week of training.
 
 #### GitHub SingUP URL: https://github.com
 
+#### AWS Login Page : https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#
+
