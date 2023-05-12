@@ -33,3 +33,4 @@ This website we use it for learning linux in the first week of training.
 
 #### AWS Login Page : https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#
 
+#### Create EC2 Server in AWS : https://lucky-hide-390.notion.site/How-to-Create-a-EC2-Server-ad7683b625ed46da80d8a16072cc0e96
