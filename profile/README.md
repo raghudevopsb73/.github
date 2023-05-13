@@ -2,7 +2,7 @@
 
 We will have lab query session everyday, However you will be onboarded to the main session from next week, Until then for the first week we will have a saperate catchup.
 
-#### [USE THE SAME LINK THAT YOU JOIN THE SESSION TO JOIN THE LAB QUERY SESSION.](https://us06web.zoom.us/j/86902560549)
+#### [https://us06web.zoom.us/j/86902560549](https://us06web.zoom.us/j/86902560549)
 #### TIMING - 7.30PM IST / 10.00AM EST
 
 
