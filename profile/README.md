@@ -1,10 +1,3 @@
-### Lab Query Session (First Week Only) : 
-
-We will have lab query session everyday, However you will be onboarded to the main session from next week, Until then for the first week we will have a saperate catchup.
-
-#### [https://us06web.zoom.us/j/86902560549](https://us06web.zoom.us/j/86902560549)
-#### TIMING - 7.30PM IST / 10.00AM EST
-
 
 ### Youtube Videos : 
 You can watch the videos of the sessions from the following link. This is a Youtube Playlist and everyday video will be updated to the same playlist.
