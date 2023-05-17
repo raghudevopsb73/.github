@@ -1,3 +1,4 @@
+### Trainer Email : raghuk.vit@gmail.com 
 
 ### Youtube Videos : 
 You can watch the videos of the sessions from the following link. This is a Youtube Playlist and everyday video will be updated to the same playlist.
