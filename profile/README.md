@@ -1,4 +1,7 @@
-### Trainer Email : raghuk.vit@gmail.com 
+### Create Git Repo
+
+![image](https://github.com/raghudevopsb73/.github/assets/29029753/b813d43b-54a5-4ff6-af0b-0a487ae1a17b)
+
 
 ### How to Make Notes:
 During the training days you need to spend time and make notes, As it really benefit you in long term, So I would suggest to make in the way that is explained in the following video.
