@@ -15,25 +15,6 @@ You can watch the videos of the sessions from the following link. This is a Yout
 #### https://www.youtube.com/playlist?list=PLLmNg_q93mey-42COqJ_rSpZ0aQEQPYh9
 (Ensure you login to to YouTube with right email address to watch the videos)
 
-### Lab Query Sessions:
-Apart from live sessions, Lab query sessions you can attend to clear the doubts you have while practicing the topics in your own lab. 
-This access is lifelong & You can always reach for the problems that you have in work and you ask for approach on the problem you are having.
-
-#### https://learndevopsonline.my.canva.site/lab-help
-(Timings inside the above link)
-
-### Github Discussion:
-During the practice of the topics we expect to have some problems and hoping you will be solving them by
-  - watching the video again to find what you have missed
-  - delete the things you have done and start from scratch again for couple of times
-Still if you have done those things and still you need some help around it then you can create a discussion with trainer. Following is the link to create a discussions.
-
-#### https://github.com/learndevopsonline/learndevopsonline/discussions/new?category=q-a
-
-Also you can learn a lot many things from other problems, So I would suggest you to spend some time on discussions posted by other students and learn from there as well. Following link will have all the discussions created by all the students.
-
-#### https://github.com/learndevopsonline/learndevopsonline/discussions?discussions_q=
-
 ### Documentation Link:
 We have project in our training, Also we have some more generic topics documenteted and all those details are found in this link.
 
